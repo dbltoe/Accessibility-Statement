@@ -3,7 +3,7 @@ This mod contains three versions of an Accessibility Statement that can be inser
 
 For 1.5.8, you will need the [Accessibility Page Mod](//www.zen-cart.com/downloads.php?do=file&id=2383) installed.
 
-For 2.0.0, you will just need to go to Tools >> Define Pages Editor, select Plain Text for your editor and follow the instructions below.
+Since 2.0.0 comes with a define_main_page for Accessibility, you will just need to go to Tools >> Define Pages Editor, select Plain Text for your editor and follow the instructions below.
 ## What's Included
 ### File Choices
 This folder contains the following files.
