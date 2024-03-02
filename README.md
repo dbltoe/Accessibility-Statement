@@ -1,4 +1,4 @@
-# Accessibility-Statement
+# Accessibility-Statement 1.0
 This mod contains three versions of an Accessibility Statement that can be inserted into the Accessibility define_main_page for Accessibility for Zen Cart 1.5.8 and 2.0.0.
 For 1.5.8, you will need the [Accessibility Page Mod](https://www.zen-cart.com/downloads.php?do=file&id=2383){:target="_blank"} installed.
 For 2.0.0, you will just need to go to Tools >> Define Pages Editor, select Plain Text for your editor and follow the instructions below.
