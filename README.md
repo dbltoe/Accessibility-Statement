@@ -15,8 +15,11 @@ This folder contains the following files.
 ## Instructions on Use
 ### Use Plain Text Editor ONLY
 The .txt files contain PHP code that will automatically add your store's name to the output.  If you use any editor other than the plan text to insert the code, the PHP formatting will be **lost**.
+
 Just open your define pages editor and make sure you are using plain text for the editor.
+
 Copy and paste the complete text from the file you have chosen to use into the editor overwriting any code already there.
+
 Click on Save.
 ## Accessibility Widget
 Each of the above text files has a commented out portion with information about an accessibility widget.  A demo can be seen at the [Zen Cart Docs Page](https://docs.zen-cart.com/){:target="_blank"}.
