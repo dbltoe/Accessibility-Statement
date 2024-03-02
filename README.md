@@ -23,7 +23,11 @@ Copy and paste the complete text from the file you have chosen to use into the e
 Click on Save.
 ## Accessibility Widget
 Each of the above text files has a commented out portion with information about an accessibility widget.  A demo can be seen at the [Zen Cart Docs Page](https://docs.zen-cart.com/){:target="_blank"}.
+
 If you choose **not** to use the widget, you do not need to modify the selected .txt file.
-If you decide to use the widget, it is available at [ada4zencart.com](https://ada4zencart.com/index.php?main_page=index&referrer=C4ADA_11659651175){:target="_blank"}.  **NOTE:** Using this link will donate a portion of the purchase price to the Zen Cart team.  Once you have installed the widget's code on your site, you can remove the beginning HTML comment code (<!--) at the beginning of the widget paragraph and the closing comet code (-->) at the end of that group of paragraphs.
+
+If you decide to use the widget, it is available at [ada4zencart.com](https://ada4zencart.com/index.php?main_page=index&referrer=C4ADA_11659651175){:target="_blank"}.  **NOTE:** Using this link will donate a portion of the purchase price to the Zen Cart team.
+
+Once you have installed the widget's code on your site, you can remove the beginning HTML comment code (<!--) at the beginning of the widget paragraph and the closing comet code (-->) at the end of that group of paragraphs.
 ## Say thanks
 If you find this mod is helpful to your site's operation and presence, please make a [donation](https://docs.zen-cart.com/user/about_us/donate/){targert"_blank"} to the Zen Cart cause.
