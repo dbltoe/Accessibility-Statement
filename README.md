@@ -3,12 +3,13 @@ This mod contains three versions of an Accessibility Statement that can be inser
 For 1.5.8, you will need the [Accessibility Page Mod](https://www.zen-cart.com/downloads.php?do=file&id=2383){:target="_blank"} installed.
 For 2.0.0, you will just need to go to Tools >> Define Pages Editor, select Plain Text for your editor and follow the instructions below.
 ## What's Included
-### Files
-shortVersion.txt - The shortest version that explains your site's committment to accessibility.
-mediumVersion.txt - A slightly larger description of your site's committment to accessibility.
-longVersion.txt - A more detailed explanation of your site's committment to accessibility and your extra steps to meet that goal.
-README.md - This informational file.
-LICENSE - The license for free use.
+### File Choices
+This folder contains the following files.
+- shortVersion.txt - The shortest version that explains your site's committment to accessibility.
+- mediumVersion.txt - A slightly larger description of your site's committment to accessibility.
+- longVersion.txt - A more detailed explanation of your site's committment to accessibility and your extra steps to meet that goal.
+- README.md - This informational file.
+- LICENSE - The license for free use.
 ## Instructions on Use
 ### Use Plain Text Editor ONLY
 The .txt files contain PHP code that will automatically add your store's name to the output.  If you use any editor other than the plan text to insert the code, the PHP formatting will be **lost**.
