@@ -1,0 +1,21 @@
+<p><?php echo STORE_NAME;?> is deeply committed to ensuring that our website is accessible to everyone, regardless of their abilities or disabilities. Accessibility is not just a goal for us; it's a fundamental principle that guides everything we do. We understand the importance of inclusivity and are dedicated to providing a positive and equitable browsing experience for all users.</p>
+
+<p>Our commitment to accessibility is reflected in our adherence to the World Wide Web Consortium's (W3C) Web Content Accessibility Guidelines 2.1 (WCAG 2.1) at the AA level as a minimum standard. These guidelines serve as a blueprint for creating web content that is perceivable, operable, understandable, and robust, ensuring that <?php echo STORE_NAME ?> is usable by people of all abilities.</p>
+
+<p>By embracing WCAG 2.1 standards, we not only enhance the performance and usability of <?php echo STORE_NAME ?> but also empower individuals with visual, motor, cognitive, and other impairments to navigate and interact with our content effectively. We recognize that accessibility is not just about compliance; it's about creating an inclusive digital experience that respects the diversity of our users.</p>
+
+<!-- Optional widget section -->
+<!--
+<<p>We make use of an accessibility widget, located [INSERT LOCATION], which provides users with various options to improve the legibility and usability of <?php echo STORE_NAME ?>. to ensure that <?php echo STORE_NAME ?>'s user interface (UI) is not only functional but also customizable. This allows individuals with specific disabilities to adjust settings such as font size, color contrast, keyboard navigation, and screen reader compatibility to meet their unique needs and preferences.</p>
+<p>It is also one of the few widgets that changes the whole site's text to a selected language.  And, by using Text to Speech, your computer can read the information through the computer's speakers.</p>
+-->
+
+<p>Furthermore, we are committed to supporting a wide range of browsers and assistive technologies to ensure compatibility and accessibility across different platforms. Whether you're using Google Chrome, Mozilla Firefox, Apple Safari, Opera, Microsoft Edge, JAWS, NVDA (Screen Readers), or any other assistive tool, <?php echo STORE_NAME ?> is designed to provide a seamless experience for all users.</p>
+
+<p>While Zen Cart is designed to be accessible out of the box, we acknowledge that certain third-party modules or site modifications may temporarily impact compliance. However, we are continuously monitoring and addressing any accessibility issues that arise, leveraging the latest technologies and best practices to achieve and maintain full compliance.</p>
+
+<p>Your feedback is crucial to our ongoing efforts to improve accessibility. If you encounter any barriers or have suggestions for enhancing the accessibility of <?php echo STORE_NAME ?>, please don't hesitate to reach out to our development team through <?php echo STORE_NAME ?>'s <a href="/index.php?main_page=contact_us" title="Contact Us Page">Contact Us</a> form. We value your input and are committed to ensuring that <?php echo STORE_NAME ?> remains accessible to everyone.</p>
+
+<p>We are constantly striving to improve and expand our accessibility features. In addition to adhering to WCAG 2.1 standards, we are exploring innovative ways to make our website even more inclusive. This includes conducting user testing with individuals with disabilities, collaborating with accessibility experts, and staying informed about emerging technologies and best practices in the field of web accessibility.</p>
+
+<p>Our dedication to accessibility extends beyond just meeting compliance requirements; it is a core value that informs every decision we make regarding <?php echo STORE_NAME ?>'s design, development, and content. We believe that by prioritizing accessibility, we not only create a better experience for individuals with disabilities but also foster a more inclusive and welcoming online community for all.</p>

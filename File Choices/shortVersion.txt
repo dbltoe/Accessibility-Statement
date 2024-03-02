@@ -1,0 +1,16 @@
+p><?php echo STORE_NAME;?> is committed to ensuring that <?php echo STORE_NAME ?> is accessible to everyone, regardless of their abilities or disabilities. We understand the importance of inclusivity and are dedicated to providing a positive browsing experience for all users.</p>
+
+<p>Our efforts are guided by the World Wide Web Consortium's (W3C) Web Content Accessibility Guidelines 2.1 (WCAG 2.1) at the AA level as a minimum standard. By adhering to these guidelines, we not only enhance the performance of <?php echo STORE_NAME;?> but also make it easier for individuals with visual, motor, cognitive, and other impairments to navigate and interact with our content.</p>
+
+<p>We have employed the latest coding and styling techniques to ensure that <?php echo STORE_NAME ?>'s user interface (UI) is customizable, allowing individuals with specific disabilities to adjust settings according to their personal preferences and needs.</p>
+
+<!-- Optional widget section -->
+<!--
+<p>Our accessibility widget, located [INSERT LOCATION], provides users with various options to improve the legibility and usability of <?php echo STORE_NAME ?>. This widget allows users to adjust font size, colors, animation, content highlighting, audio, and more. It also supports language translation and text-to-speech functionality for those who require it.</p>
+-->
+
+<p>We strive to support a wide range of browsers and assistive technologies, including Google Chrome, Mozilla Firefox, Apple Safari, Opera, Microsoft Edge, JAWS, and NVDA (Screen Readers). Our goal is to ensure accommodate both Windows and Mac users.</p>
+
+<p>While Zen Cart is designed to be accessible out of the box, certain third-party modules or site modifications may temporarily impact compliance. We are continuously working to address any accessibility issues and leverage the latest technologies to achieve full compliance.</p>
+
+<p>If you encounter any accessibility barriers or have suggestions for improvement of <?php echo STORE_NAME ?>, please don't hesitate to contact our development team through <?php echo STORE_NAME ?>'s <a href="/index.php?main_page=contact_us" target="_blank" title="Contact Us Form">Contact Us</a> form. Your feedback is invaluable as we strive to create an inclusive online environment for all users.</p>
