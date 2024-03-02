@@ -29,5 +29,5 @@ If you choose **not** to use the widget, you do not need to modify the selected 
 If you decide to use the widget, it is available at [ada4zencart.com](//ada4zencart.com/index.php?main_page=index&referrer=C4ADA_11659651175).  **NOTE:** Using this link will donate a portion of the purchase price to the Zen Cart team.
 
 Once you have installed the widget's code on your site, you can remove the beginning HTML comment code (<!--) at the beginning of the widget paragraph and the closing comet code (-->) at the end of that group of paragraphs.
-## Say thanks
+## Say Thanks!
 If you find this mod is helpful to your site's operation and presence, please make a [donation](//docs.zen-cart.com/user/about_us/donate/) to the Zen Cart cause.
