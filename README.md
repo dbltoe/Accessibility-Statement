@@ -30,4 +30,4 @@ If you decide to use the widget, it is available at [ada4zencart.com](//ada4zenc
 
 Once you have installed the widget's code on your site, you can remove the beginning HTML comment code (<!--) at the beginning of the widget paragraph and the closing comet code (-->) at the end of that group of paragraphs.
 ## Say thanks
-If you find this mod is helpful to your site's operation and presence, please make a [donation](//docs.zen-cart.com/user/about_us/donate/){targert="_blank"} to the Zen Cart cause.
+If you find this mod is helpful to your site's operation and presence, please make a [donation](//docs.zen-cart.com/user/about_us/donate/){:target="_blank"} to the Zen Cart cause.
